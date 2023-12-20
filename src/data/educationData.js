@@ -1,23 +1,24 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
+        institution: 'Kibuli Secondary School',
+        course: 'Lower Secondary Education',
         startYear: '2015',
         endYear: '2018'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
+        institution: 'Kinaawa High School',
+        course: 'Higher Secondary Education',
         startYear: '2019',
-        endYear: '2021'
+        endYear: '2020'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
+        institution: 'Mbarara University of Science and Technology',
+        course: 'Bachelor of Computer Science',
         startYear: '2021',
         endYear: 'Present'
     },
+    
 ]
