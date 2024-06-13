@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
     description1: "Hello! My name is Kayondo Abdulatif. I'm an aspiring web developer based in Uganda.",
-    description2: "During the day I am student at Mbarara University of Science and Technology and in the evening I work on freelance projects and utilize the time to built my own products. I spend my leisure hours reading articles and swimming. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description2: "Embarking on my freelance design journey almost 2 years ago, I've immersed myself in a variety of projects, spanning from remote collaborations with agencies to consulting for startups. Through these experiences, I've honed my craft in crafting digital solutions for both business and consumer needs. With a quiet confidence and innate curiosity, I approach each design challenge with dedication, seeking continual improvement. I thrive in dynamic environments, excel in teamwork, and actively pursue opportunities for growth and development. My proactive nature, coupled with a goal-oriented mindset, allows me to identify and seize opportunities effectively. Adaptable and adept at managing multiple tasks concurrently, I bring reliability and positivity to any work setting. Eager to continue my journey of growth and contribution, I'm enthusiastic about the prospect of tackling new challenges in a stimulating work environment.",
     image: 2
 }
