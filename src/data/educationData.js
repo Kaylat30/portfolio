@@ -18,7 +18,7 @@ export const educationData = [
         institution: 'Mbarara University of Science and Technology',
         course: 'Bachelor of Computer Science',
         startYear: '2021',
-        endYear: 'Present'
+        endYear: '2024'
     },
     
 ]
