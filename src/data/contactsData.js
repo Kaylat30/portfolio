@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'kayondoabdulatif@gmail.com',
     phone: '+256 754370995',
-    address: 'Mbarara,Uganda',
+    address: 'Kampala,Uganda',
 
-    sheetAPI: ''
+    sheetAPI: 'https://formspree.io/f/mrbzgenp'
 }
