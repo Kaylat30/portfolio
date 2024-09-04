@@ -12,8 +12,8 @@ import {
     FaTwitter,
     FaLinkedin,
     FaGithub,
-    FaYoutube,
-    FaBlogger,
+    //FaYoutube,
+    //FaBlogger,
     FaInstagram,
 } from 'react-icons/fa';
 
